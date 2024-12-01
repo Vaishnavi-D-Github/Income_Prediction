@@ -64,7 +64,7 @@ age,experience,income
 
 ## Output
 1. R² Score of the trained model.
-2. Graph of actual vs. predicted house prices.
+2. Graph of actual vs. predicted incomes.
 3. Real-time income predictions.
 
 
